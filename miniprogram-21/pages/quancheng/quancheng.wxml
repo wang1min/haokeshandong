@@ -1,0 +1,7 @@
+<!--pages/quancheng/quancheng.wxml-->
+<view class="box">
+<image src='{{imgSrc2}}' bindtap="shandong"></image>
+<view class="text">济南是山东省的省会，因地处古四渎之一“济水”（故道为今黄河所据）之南而得名。南依泰山，北跨黄河，地处鲁中南低山丘陵与鲁西北冲积平原的交接带上，地势南高北低。
+
+济南境内河流主要有黄河、小清河两大水系。湖泊有大明湖、白云湖等。济南历史悠久，是国务院公布的历史文化名城。</view>
+</view>

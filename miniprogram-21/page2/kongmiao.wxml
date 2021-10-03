@@ -1,0 +1,12 @@
+<!--page2/kongmiao.wxml-->
+<view class="box">
+<view class="title">孔庙</view>
+<view style="text-align: center;">
+<image src='{{imgSrc}}' bindtap="kongfu"></image>
+<view class="text">曲阜孔庙（Temple of Confucius， Qufu），又称“阙里至圣庙”，位于曲阜市中心鼓楼西侧300米处，是祭祀中国古代著名思想家和教育家孔子的祠庙。始建于鲁哀公十七年（前478年），历代增修扩建。
+曲阜孔庙以孔子故居为庙，岁时奉祀。西汉以来历代帝王不断给孔子加封谥号，孔庙的规模也越来越大，成为全国规模最大的孔庙。现存的建筑群绝大部分是明、清两代完成的，占地327亩，前后九进院落。庙内有殿堂、坛阁和门坊等464间。四周围以红墙，四角配以角楼，是仿北京故宫样式修建的。与相邻的孔府、城北的孔林合称“三孔”</view>
+
+</view>
+</view>
+
+

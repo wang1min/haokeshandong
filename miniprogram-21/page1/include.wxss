@@ -1,0 +1,7 @@
+/* page1/include.wxss */
+.text{
+    color: purple;
+    letter-spacing: 10px;
+    text-indent: 30px;
+    
+}

@@ -1,0 +1,29 @@
+/* pages/sankong/sankong.wxss */
+navigator{
+    margin: 5px;
+    font-size: 20px;
+
+}
+.text{
+    color: purple;
+    letter-spacing: 5px;
+    text-align: left;
+    text-indent: 50px;
+    line-height: 30px;
+}
+.waikuang{
+    display: flex;
+    flex-direction: row;
+    margin: 5px 0px;
+    padding: 5px 0px;
+}.myleft{
+    margin-right: 10px;
+}
+.mycenter{
+    flex: 1;
+}
+.myright{
+    width: 40rpx;
+    height: 40rpx;
+    margin-top: 5px;
+}

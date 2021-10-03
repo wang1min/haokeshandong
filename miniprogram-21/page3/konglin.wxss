@@ -1,0 +1,7 @@
+/* page3/konglin.wxss */
+.text{
+    color: purple;
+    letter-spacing: 5px;
+    text-indent: 30px;
+    
+}

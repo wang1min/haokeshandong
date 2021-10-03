@@ -1,0 +1,8 @@
+/* pages/quancheng/quancheng.wxss */
+.text{
+    color: purple;
+    letter-spacing: 5px;
+    text-align: left;
+    text-indent: 50px;
+    line-height: 30px;
+}

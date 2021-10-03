@@ -1,0 +1,25 @@
+<!--pages/sankong/sankong.wxml-->
+<view class="box">
+<image src='{{imgSrc3}}' bindtap="shandong"></image>
+</view>
+<navigator url="/page1/kongfu">
+<view class="waikuang">
+<icon type="success" class="myleft"></icon>
+<view class="mycenter">孔庙</view>
+<image src="/images/jiantou.png" class='myright'></image>
+</view>
+</navigator>
+<navigator url="/page2/kongmiao">
+<view class="waikuang">
+<icon type="success" class="myleft"></icon>
+<view class="mycenter">孔庙</view>
+<image src="/images/jiantou.png" class='myright'></image>
+</view>
+</navigator>
+<navigator url="/page3/konglin">
+<view class="waikuang">
+<icon type="success" class="myleft"></icon>
+<view class="mycenter">孔林</view>
+<image src="/images/jiantou.png" class='myright'></image>
+</view>
+</navigator>
